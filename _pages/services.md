@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-**Conference Reviewer**:
+**Conference Reviewer**
 * **KDD  2020, 2021** Research Track
 * **ICDM 2020, 2021**
 * **CIKM 2020, 2021**
