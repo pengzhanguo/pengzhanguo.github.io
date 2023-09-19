@@ -18,6 +18,7 @@ He received his master’s and Ph.D. degrees in applied mathematics and statisti
 News
 ======
 * <span style="color:red">New!</span> (2022-5-18) One paper were accepted to ***Scientific Report*** about **Intelligent career planning via stochastic subsampling reinforcement learning**.
+* (2022-5-18) One paper were accepted to ***Scientific Report*** about **Intelligent career planning via stochastic subsampling reinforcement learning**.
 * (2021-12-16) One paper on **Route optimization via environment-aware deep network and reinforcement learning** was accepted to ***TIST***.
 * (2020-12-19) One paper on **Weighted aggregating stochastic gradient descent for parallel deep learning** was accepted to ***TKDE***.
 * (2019-11-8) One paper on **A weighted aggregating sgd for scalable parallelization in deep learning** was accepted to ***ICDM 2019***.
