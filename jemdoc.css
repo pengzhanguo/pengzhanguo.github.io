@@ -377,3 +377,29 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+#awards {
+  font-family: Arial, sans-serif; /* Clean, professional font */
+  margin-left: 20px;
+}
+
+#awards h2 {
+  color: #333; /* Dark grey for the header */
+  margin-bottom: 10px;
+}
+
+#awards ul {
+  list-style-type: none; /* No bullets */
+  padding: 0;
+}
+
+#awards li {
+  background-color: #f9f9f9; /* Very light grey background */
+  border-left: 5px solid #0056b3; /* Blue left border */
+  padding: 10px;
+  margin-bottom: 5px; /* Spacing between items */
+  font-size: 14px; /* Adjust size as needed */
+}
+
+#awards strong {
+  color: #0056b3; /* Blue text for emphasis */
+}
